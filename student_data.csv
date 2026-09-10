@@ -1,0 +1,501 @@
+Student_ID,Name,Age,Gender,Department,Grade,Attendance,Marks,City,Study_Hours
+1362,Student_362,23.0,Female,Arts,Excellent,96.0,42.0,Boston,4.5
+1074,Student_74,18.0,Female,Computer Science,Excellent,67.0,75.0,New York,5.6
+1375,Student_375,28.0,Male,Computer Science,Excellent,89.0,57.0,Seattle,6.0
+1156,Student_156,23.0,Male,Engineering,Excellent,71.0,76.0,Dallas,3.5
+1105,Student_105,29.0,,Mathematics,Good,89.0,69.0,Boston,3.7
+1395,Student_395,29.0,Male,Engineering,Good,99.0,37.0,Houston,6.1
+1378,Student_378,28.0,Male,Business,Average,76.0,77.0,Houston,3.8
+1125,Student_125,27.0,Female,Engineering,Good,99.0,50.0,New York,8.9
+1069,Student_69,29.0,Female,Engineering,Excellent,60.0,69.0,Boston,2.7
+1451,Student_451,28.0,Male,Business,Average,59.0,56.0,Houston,5.4
+1010,Student_10,,Female,Computer Science,Average,77.0,52.0,Boston,5.6
+1195,Student_195,23.0,Male,Business,Good,82.0,66.0,Dallas,6.0
+1407,Student_407,18.0,Female,Computer Science,Poor,60.0,70.0,Boston,1.4
+1085,Student_85,26.0,Female,Engineering,Average,82.0,42.0,Chicago,3.2
+1372,Student_372,18.0,Male,Business,Poor,75.0,86.0,Dallas,3.1
+1389,Student_389,22.0,Male,,Average,97.0,59.0,Dallas,4.7
+1496,Student_496,28.0,Female,Arts,Poor,70.0,58.0,Boston,2.3
+1031,Student_31,,Male,Engineering,Average,64.0,47.0,,0.3
+1317,Student_317,19.0,Male,,Poor,78.0,44.0,New York,5.3
+1409,Student_409,26.0,Female,Engineering,Good,83.0,88.0,Seattle,5.9
+1491,Student_491,26.0,Male,Arts,Poor,85.0,39.0,Houston,3.6
+1492,Student_492,19.0,Male,Mathematics,Good,60.0,38.0,Dallas,4.3
+1281,Student_281,19.0,Female,Business,Good,78.0,94.0,Dallas,6.1
+1357,Student_357,17.0,Female,Engineering,Poor,,81.0,New York,4.5
+1077,Student_77,18.0,Female,Arts,Poor,95.0,80.0,Chicago,4.2
+1462,Student_462,26.0,Male,Business,Poor,77.0,52.0,New York,2.6
+1498,Student_498,23.0,Male,Engineering,Excellent,71.0,75.0,Boston,5.7
+1212,Student_212,25.0,Male,Business,Poor,100.0,36.0,Seattle,5.4
+1102,Student_102,28.0,Male,Computer Science,Poor,69.0,36.0,Seattle,5.3
+1335,Student_335,25.0,Male,Computer Science,Excellent,99.0,50.0,New York,4.5
+1476,Student_476,28.0,Male,Arts,Good,97.0,95.0,Seattle,1.3
+1337,Student_337,25.0,Male,,Excellent,88.0,66.0,,4.2
+1441,Student_441,23.0,Male,Engineering,Excellent,98.0,58.0,Chicago,3.8
+1174,Student_174,29.0,Male,Business,Good,,59.0,Boston,4.9
+1003,Student_3,29.0,Female,Business,Excellent,69.0,63.0,Boston,5.6
+1334,Student_334,19.0,Female,Engineering,Excellent,74.0,66.0,Seattle,4.6
+1410,Student_410,22.0,Male,Arts,Poor,87.0,46.0,Dallas,1.1
+1071,Student_71,19.0,Female,Computer Science,Excellent,66.0,52.0,New York,2.4
+1210,Student_210,24.0,Male,Engineering,Average,99.0,68.0,Chicago,1.7
+1064,Student_64,20.0,Male,Engineering,Average,97.0,44.0,Dallas,7.1
+1385,Student_385,28.0,Female,Business,Poor,68.0,57.0,Dallas,6.2
+1094,Student_94,24.0,Female,Computer Science,Good,66.0,61.0,Chicago,5.1
+1486,Student_486,24.0,Male,Business,Poor,92.0,,New York,2.4
+1186,Student_186,21.0,Male,Engineering,Poor,81.0,40.0,New York,3.5
+1034,Student_34,28.0,Female,Computer Science,Poor,76.0,43.0,Dallas,
+1078,Student_78,22.0,Male,Mathematics,Good,96.0,53.0,Boston,4.0
+1001,Student_1,23.0,Female,,Good,96.0,86.0,Boston,5.3
+1012,Student_12,27.0,Male,Mathematics,Poor,70.0,83.0,Seattle,2.8
+1416,Student_416,22.0,Male,Business,Excellent,83.0,90.0,Houston,2.7
+1023,Student_23,24.0,Male,Mathematics,Poor,64.0,90.0,Seattle,
+1073,Student_73,20.0,Female,Mathematics,Good,70.0,73.0,New York,3.4
+1183,Student_183,26.0,Male,Computer Science,Average,68.0,86.0,Seattle,3.3
+1132,Student_132,23.0,Female,Mathematics,Good,60.0,150.0,Seattle,2.8
+1411,Student_411,26.0,Female,Engineering,,95.0,48.0,Houston,5.7
+1194,Student_194,26.0,Female,Computer Science,Poor,,46.0,Seattle,4.6
+1056,Student_56,25.0,Female,Arts,,63.0,55.0,Dallas,4.6
+1149,Student_149,19.0,Female,Business,Excellent,96.0,69.0,Boston,6.1
+1019,Student_19,19.0,Male,Business,Good,54.0,90.0,Seattle,6.0
+1205,Student_205,29.0,Female,Mathematics,Excellent,53.0,36.0,Houston,3.0
+1079,Student_79,22.0,Female,Business,Poor,80.0,76.0,,2.7
+1495,Student_495,19.0,Female,Arts,Poor,53.0,35.0,New York,5.0
+1263,Student_263,20.0,Female,Business,Average,51.0,86.0,Houston,3.5
+1324,Student_324,17.0,Female,Business,Good,98.0,70.0,Houston,4.9
+1484,Student_484,19.0,Female,Mathematics,Average,70.0,80.0,Houston,
+1080,Student_80,26.0,Male,,Average,87.0,66.0,Houston,4.1
+1040,Student_40,28.0,Male,Engineering,Good,57.0,58.0,Chicago,3.7
+1452,Student_452,18.0,Female,Arts,Poor,51.0,58.0,Seattle,0.7
+1047,Student_47,19.0,Female,Engineering,Average,78.0,94.0,Seattle,6.2
+1239,Student_239,18.0,Female,Arts,Average,97.0,89.0,Seattle,4.6
+1392,Student_392,25.0,Female,Computer Science,Good,75.0,50.0,Dallas,0.8
+1353,Student_353,24.0,Female,Arts,Excellent,70.0,55.0,Seattle,7.4
+1342,Student_342,22.0,Male,Business,Excellent,72.0,74.0,Seattle,4.0
+1278,Student_278,20.0,Female,Mathematics,Poor,63.0,63.0,Chicago,3.6
+1291,Student_291,24.0,Female,Arts,Poor,61.0,66.0,New York,2.3
+1318,Student_318,19.0,Female,Computer Science,Poor,50.0,72.0,New York,6.7
+1305,Student_305,20.0,Male,Mathematics,Good,96.0,65.0,,5.9
+1269,Student_269,25.0,Male,Business,Average,61.0,,Houston,4.8
+1070,Student_70,24.0,Female,Arts,Average,62.0,41.0,Chicago,3.3
+1456,Student_456,19.0,Male,Engineering,Good,70.0,98.0,New York,
+1466,Student_466,26.0,Female,Business,Good,61.0,79.0,Boston,6.1
+1155,Student_155,23.0,Male,Mathematics,Poor,55.0,83.0,Dallas,3.8
+1083,Student_83,29.0,Female,Business,Excellent,94.0,70.0,New York,
+1478,Student_478,21.0,Female,Arts,Good,55.0,84.0,New York,1.4
+1173,Student_173,27.0,Male,Arts,Excellent,85.0,44.0,New York,3.3
+1322,Student_322,22.0,Male,Business,Excellent,54.0,84.0,Seattle,7.0
+1091,Student_91,23.0,Female,Business,Poor,100.0,94.0,Chicago,4.0
+1181,Student_181,28.0,Female,Arts,Poor,55.0,99.0,Seattle,1.6
+1415,Student_415,18.0,Male,Business,Average,55.0,50.0,Dallas,4.7
+1313,Student_313,27.0,Male,Business,Average,58.0,39.0,Seattle,4.2
+1279,Student_279,19.0,Male,Business,Good,65.0,44.0,New York,5.4
+1382,Student_382,19.0,Female,Mathematics,Good,53.0,37.0,Dallas,4.8
+1473,Student_473,24.0,Female,Engineering,Poor,85.0,81.0,Chicago,2.2
+1363,Student_363,22.0,,Arts,Excellent,83.0,80.0,Houston,4.0
+1325,Student_325,24.0,,Business,Average,100.0,75.0,Seattle,5.2
+1432,Student_432,23.0,Female,Engineering,,56.0,79.0,Seattle,5.5
+1348,Student_348,20.0,Male,Mathematics,Average,65.0,64.0,Seattle,3.8
+1087,Student_87,18.0,Female,Engineering,Excellent,90.0,47.0,Seattle,3.4
+1076,Student_76,20.0,Female,Engineering,Poor,67.0,94.0,Dallas,0.6
+1439,Student_439,28.0,Male,Computer Science,Excellent,98.0,89.0,Boston,1.9
+1016,Student_16,20.0,Female,Arts,Excellent,69.0,47.0,Boston,2.7
+1250,Student_250,28.0,Female,Engineering,Good,94.0,87.0,New York,4.5
+1434,Student_434,19.0,Female,Business,,70.0,51.0,,2.8
+1020,Student_20,22.0,Female,Computer Science,Good,52.0,76.0,Chicago,6.0
+1323,Student_323,24.0,Female,Engineering,Excellent,82.0,83.0,New York,3.0
+1333,Student_333,20.0,Male,Engineering,Poor,83.0,87.0,Dallas,3.8
+1057,Student_57,28.0,Male,Computer Science,Poor,,56.0,New York,0.5
+1302,Student_302,28.0,Male,Arts,Poor,98.0,54.0,,7.0
+1230,Student_230,18.0,Male,Engineering,Good,67.0,72.0,Boston,4.5
+1332,Student_332,24.0,Female,Mathematics,Average,92.0,47.0,Boston,4.8
+1133,Student_133,25.0,Male,Engineering,Excellent,52.0,66.0,Houston,3.8
+1138,Student_138,23.0,Male,Mathematics,Poor,88.0,70.0,Houston,4.6
+1424,Student_424,24.0,Male,Mathematics,Average,50.0,71.0,Houston,4.3
+1336,Student_336,19.0,Male,Mathematics,Poor,78.0,66.0,Houston,6.6
+1026,Student_26,18.0,Male,Business,Poor,98.0,88.0,Dallas,2.4
+1465,Student_465,20.0,Female,Computer Science,Good,74.0,91.0,Boston,
+1282,Student_282,,Female,Computer Science,Average,59.0,55.0,Houston,3.2
+1248,Student_248,18.0,Female,Business,Excellent,54.0,99.0,Boston,2.7
+1238,Student_238,17.0,Female,Mathematics,Good,85.0,39.0,Boston,2.8
+1118,Student_118,27.0,Female,Business,Average,71.0,50.0,Dallas,7.0
+1043,Student_43,28.0,Female,Business,Poor,95.0,71.0,Dallas,1.9
+1221,Student_221,24.0,Male,Computer Science,Poor,85.0,,Seattle,5.6
+1177,Student_177,23.0,Female,Arts,Average,81.0,88.0,Boston,5.5
+1321,Student_321,24.0,Male,Computer Science,Average,86.0,100.0,Seattle,5.3
+1154,Student_154,26.0,,Business,Average,53.0,46.0,Boston,6.6
+1232,Student_232,17.0,Male,,Average,70.0,97.0,New York,3.2
+1228,Student_228,28.0,,Engineering,Poor,52.0,86.0,Houston,3.7
+1418,Student_418,,Male,Arts,,62.0,38.0,Boston,1.8
+1204,Student_204,20.0,Male,Arts,Average,86.0,77.0,New York,1.4
+1127,Student_127,26.0,Male,Arts,Good,83.0,57.0,Boston,1.3
+1330,Student_330,20.0,Male,Engineering,Average,99.0,46.0,New York,4.6
+1032,Student_32,22.0,Male,Engineering,Poor,93.0,56.0,Houston,6.3
+1114,Student_114,17.0,Male,Business,Average,79.0,89.0,Boston,0.9
+1471,Student_471,21.0,,Engineering,Poor,64.0,81.0,New York,5.1
+1272,Student_272,22.0,Female,Arts,Poor,72.0,43.0,New York,4.2
+1141,Student_141,21.0,Male,Mathematics,Average,90.0,,New York,1.9
+1058,Student_58,18.0,Male,Mathematics,Excellent,66.0,82.0,Houston,4.5
+1193,Student_193,27.0,Male,Engineering,Average,78.0,94.0,Dallas,15.0
+1025,Student_25,22.0,Male,Arts,Good,84.0,41.0,New York,4.7
+1018,Student_18,24.0,Female,Mathematics,Excellent,68.0,97.0,Chicago,6.3
+1266,Student_266,22.0,Male,Engineering,Average,54.0,76.0,Dallas,4.2
+1067,Student_67,23.0,Female,Computer Science,,73.0,36.0,Chicago,1.3
+1209,Student_209,22.0,Female,Arts,Average,73.0,39.0,Boston,3.0
+1480,Student_480,20.0,Female,Arts,Average,99.0,85.0,New York,1.9
+1095,Student_95,21.0,Female,Arts,Excellent,61.0,66.0,Seattle,4.3
+1254,Student_254,20.0,Male,Mathematics,,88.0,200.0,Houston,6.1
+1267,Student_267,27.0,Male,Mathematics,Poor,50.0,55.0,Chicago,4.2
+1024,Student_24,28.0,Female,Mathematics,Average,83.0,70.0,Boston,4.0
+1223,Student_223,20.0,Female,Computer Science,Excellent,88.0,38.0,Seattle,5.3
+1262,Student_262,21.0,Male,Arts,Poor,77.0,86.0,Houston,3.1
+1427,Student_427,27.0,Male,Arts,Poor,74.0,,Chicago,
+1006,Student_6,29.0,Male,Engineering,Average,76.0,42.0,New York,4.8
+1117,Student_117,24.0,Female,Engineering,Poor,75.0,89.0,Seattle,3.5
+1046,Student_46,25.0,Male,Engineering,Good,52.0,53.0,Boston,0.8
+1017,Student_17,24.0,Female,Arts,Good,55.0,65.0,Seattle,3.2
+1463,Student_463,22.0,Female,Computer Science,Excellent,78.0,97.0,Seattle,2.4
+1358,Student_358,28.0,Female,Engineering,Average,87.0,52.0,Houston,5.0
+1004,Student_4,27.0,Male,Business,Good,71.0,62.0,New York,2.5
+1219,Student_219,27.0,Male,Engineering,Good,64.0,62.0,New York,3.7
+1406,Student_406,19.0,Male,Business,Excellent,90.0,43.0,Chicago,4.4
+1061,Student_61,26.0,Female,Computer Science,Poor,85.0,69.0,Dallas,5.8
+1111,Student_111,23.0,Male,Arts,Good,82.0,70.0,Dallas,6.5
+1319,Student_319,19.0,Male,Engineering,Good,84.0,42.0,Seattle,7.2
+1429,Student_429,23.0,Male,Business,,64.0,38.0,,5.0
+1030,Student_30,28.0,Female,Engineering,Average,67.0,81.0,Chicago,5.4
+1438,Student_438,29.0,Male,Engineering,Excellent,82.0,92.0,Dallas,3.5
+1472,Student_472,17.0,Female,Computer Science,Good,93.0,49.0,Seattle,2.9
+1027,Student_27,28.0,Female,Arts,Good,74.0,35.0,Boston,4.3
+1008,Student_8,23.0,Male,Business,Good,66.0,70.0,,2.2
+1454,Student_454,23.0,Female,Business,Average,58.0,92.0,Dallas,5.3
+1109,Student_109,17.0,Female,Engineering,Good,51.0,78.0,Houston,4.7
+1038,Student_38,27.0,Male,Computer Science,Poor,66.0,44.0,Houston,3.5
+1158,Student_158,25.0,Female,Computer Science,Average,52.0,79.0,Seattle,4.3
+1490,Student_490,28.0,Male,Engineering,Poor,74.0,98.0,Houston,3.7
+1119,Student_119,19.0,Male,Computer Science,Good,88.0,46.0,Seattle,4.0
+1115,Student_115,28.0,Female,Computer Science,Good,82.0,96.0,Seattle,3.0
+1176,Student_176,29.0,Male,Business,Good,78.0,59.0,Dallas,3.9
+1374,Student_374,17.0,,Mathematics,Average,96.0,84.0,New York,5.1
+1182,Student_182,18.0,Female,Computer Science,Poor,67.0,88.0,Seattle,2.9
+1145,Student_145,22.0,Male,Engineering,Good,57.0,57.0,Houston,5.3
+1370,Student_370,27.0,Female,Mathematics,Good,67.0,36.0,Seattle,3.9
+1391,Student_391,28.0,Female,Arts,Excellent,90.0,92.0,New York,5.3
+1196,Student_196,28.0,Male,Mathematics,Good,56.0,47.0,Chicago,3.7
+1405,Student_405,17.0,Male,Business,Average,80.0,47.0,Houston,2.9
+1276,Student_276,28.0,Male,Business,Average,59.0,94.0,Houston,4.1
+1455,Student_455,22.0,Male,Arts,Excellent,,65.0,Boston,3.7
+1142,Student_142,19.0,Male,Engineering,Good,99.0,99.0,,5.4
+1366,Student_366,29.0,Female,Computer Science,Good,92.0,56.0,Chicago,3.8
+1068,Student_68,28.0,Male,Computer Science,Good,57.0,98.0,Dallas,1.8
+1211,Student_211,27.0,Female,Engineering,Poor,98.0,44.0,Chicago,5.1
+1169,Student_169,21.0,Female,Engineering,Poor,94.0,100.0,Houston,5.6
+1494,Student_494,24.0,Male,Business,Good,64.0,69.0,Dallas,3.9
+1376,Student_376,17.0,,Arts,Good,98.0,78.0,Boston,2.5
+1401,Student_401,20.0,Female,Mathematics,Poor,97.0,80.0,Seattle,4.0
+1273,Student_273,29.0,Female,Mathematics,Poor,96.0,75.0,Boston,2.4
+1110,Student_110,25.0,Female,Computer Science,Poor,82.0,92.0,New York,5.1
+1249,Student_249,21.0,Male,Arts,Poor,87.0,47.0,,3.6
+1146,Student_146,27.0,Male,Computer Science,Good,99.0,60.0,Dallas,5.2
+1093,Student_93,25.0,Female,Engineering,Average,90.0,78.0,Dallas,2.3
+1153,Student_153,21.0,Female,,Poor,65.0,94.0,New York,4.3
+1368,Student_368,22.0,Female,Business,Poor,79.0,63.0,Dallas,4.2
+1468,Student_468,22.0,Female,Arts,Poor,83.0,51.0,Chicago,2.6
+1084,Student_84,18.0,Female,Engineering,Poor,74.0,37.0,New York,1.3
+1246,Student_246,17.0,Male,Mathematics,Good,51.0,73.0,Dallas,5.7
+1166,Student_166,20.0,Female,Mathematics,Average,61.0,49.0,Houston,5.5
+1164,Student_164,23.0,Female,Arts,Average,61.0,86.0,Boston,2.7
+1200,Student_200,17.0,Female,Mathematics,Average,70.0,94.0,Chicago,6.7
+1229,Student_229,23.0,Male,Engineering,Poor,94.0,70.0,Chicago,2.9
+1075,Student_75,,Male,Computer Science,Good,79.0,58.0,Dallas,3.3
+1479,Student_479,23.0,Male,Business,Good,,37.0,Dallas,5.2
+1359,Student_359,27.0,Male,Engineering,Excellent,,,Seattle,0.4
+1251,Student_251,,Male,Business,Average,90.0,79.0,Houston,0.8
+1120,Student_120,17.0,Male,Arts,Average,51.0,51.0,Boston,5.0
+1311,Student_311,21.0,Male,Arts,Average,,85.0,Houston,4.4
+1300,Student_300,19.0,Male,Engineering,Average,86.0,51.0,Houston,6.8
+1256,Student_256,27.0,Male,Mathematics,Average,69.0,97.0,Seattle,4.9
+1355,Student_355,19.0,Female,Computer Science,Poor,57.0,73.0,Dallas,3.9
+1400,Student_400,17.0,Female,Engineering,Average,74.0,55.0,Boston,3.7
+1226,Student_226,26.0,,Business,Average,100.0,51.0,Boston,5.0
+1354,Student_354,23.0,Female,Computer Science,Good,50.0,66.0,,1.7
+1235,Student_235,24.0,Male,Computer Science,Good,84.0,41.0,Seattle,4.8
+1383,Student_383,17.0,Male,Computer Science,Poor,82.0,97.0,Dallas,2.4
+1275,Student_275,20.0,Male,Business,,60.0,36.0,New York,4.3
+1037,Student_37,27.0,Male,Mathematics,Poor,74.0,49.0,New York,5.6
+1197,Student_197,25.0,Female,Engineering,Excellent,61.0,65.0,Boston,7.1
+1140,Student_140,24.0,Male,Mathematics,Excellent,81.0,100.0,Boston,4.0
+1365,Student_365,22.0,Female,Business,Good,75.0,57.0,Boston,4.8
+1245,Student_245,17.0,Female,Computer Science,Excellent,63.0,92.0,,3.9
+1440,Student_440,26.0,Female,Business,Excellent,81.0,38.0,Seattle,2.6
+1287,Student_287,17.0,Male,Mathematics,Good,54.0,83.0,Boston,4.3
+1060,Student_60,,Male,Business,Good,69.0,,New York,6.0
+1112,Student_112,25.0,Female,Business,Excellent,90.0,65.0,Boston,
+1090,Student_90,,Female,Business,Average,71.0,36.0,New York,5.3
+1437,Student_437,24.0,Male,Business,Average,74.0,37.0,New York,4.1
+1007,Student_7,21.0,Female,Engineering,Good,52.0,50.0,Boston,5.2
+1361,Student_361,22.0,Female,Computer Science,Excellent,71.0,55.0,New York,2.9
+1347,Student_347,17.0,Male,,Good,94.0,56.0,New York,4.7
+1339,Student_339,18.0,Male,Computer Science,Poor,,44.0,Boston,4.7
+1159,Student_159,26.0,Female,Mathematics,Excellent,90.0,,Chicago,4.7
+1151,Student_151,19.0,Male,Arts,Average,60.0,77.0,Boston,3.2
+1178,Student_178,27.0,Male,Business,Excellent,100.0,67.0,Houston,5.9
+1394,Student_394,,Female,Engineering,Average,51.0,39.0,Boston,4.7
+1185,Student_185,25.0,Male,Engineering,Excellent,,75.0,Houston,4.1
+1450,Student_450,23.0,Male,Business,Average,63.0,97.0,New York,3.7
+1011,Student_11,23.0,Female,Computer Science,Average,78.0,36.0,Chicago,4.3
+1381,Student_381,20.0,Male,Business,Poor,95.0,90.0,Dallas,4.6
+1104,Student_104,28.0,Male,Arts,Average,59.0,36.0,Seattle,2.2
+1082,Student_82,22.0,Female,Arts,Average,60.0,70.0,Seattle,4.5
+1039,Student_39,26.0,Female,Engineering,Poor,78.0,76.0,Seattle,2.9
+1315,Student_315,25.0,Female,Computer Science,Good,69.0,42.0,Houston,2.9
+1168,Student_168,20.0,Male,Engineering,Good,74.0,69.0,Houston,1.2
+1470,Student_470,28.0,Female,Arts,Good,86.0,54.0,Dallas,2.8
+1297,Student_297,18.0,Male,Engineering,Excellent,96.0,85.0,Houston,4.9
+1475,Student_475,28.0,Male,Mathematics,Good,92.0,50.0,Seattle,2.1
+1199,Student_199,17.0,,Computer Science,Poor,79.0,52.0,Seattle,0.2
+1298,Student_298,23.0,Male,,Average,86.0,58.0,New York,2.2
+1417,Student_417,23.0,Female,Computer Science,Excellent,67.0,92.0,Boston,3.5
+1147,Student_147,19.0,Male,Business,Excellent,77.0,89.0,Houston,4.1
+1393,Student_393,21.0,Male,Arts,Poor,77.0,,New York,3.3
+1148,Student_148,17.0,Male,Engineering,Poor,69.0,40.0,Houston,5.6
+1448,Student_448,28.0,Female,Engineering,Average,57.0,53.0,Dallas,3.9
+1288,Student_288,24.0,Male,Mathematics,Excellent,69.0,51.0,Seattle,5.6
+1124,Student_124,17.0,Male,,Average,,37.0,Dallas,
+1369,Student_369,24.0,Female,Business,Poor,99.0,47.0,Seattle,5.2
+1097,Student_97,18.0,Male,Business,Excellent,81.0,42.0,Chicago,4.4
+1144,Student_144,24.0,Female,Computer Science,Excellent,57.0,96.0,Houston,2.4
+1240,Student_240,18.0,Female,Computer Science,Poor,79.0,,Chicago,
+1443,Student_443,20.0,Male,Computer Science,Excellent,93.0,64.0,Houston,3.0
+1098,Student_98,21.0,Female,Computer Science,Good,64.0,84.0,Chicago,2.2
+1408,Student_408,25.0,Male,Arts,,53.0,92.0,Dallas,3.4
+1123,Student_123,19.0,Male,Business,Good,75.0,42.0,Houston,1.1
+1184,Student_184,29.0,Female,Computer Science,Poor,71.0,37.0,Seattle,3.0
+1203,Student_203,25.0,Female,Computer Science,Poor,69.0,66.0,Dallas,4.8
+1247,Student_247,19.0,Female,Business,Excellent,86.0,39.0,Houston,4.4
+1306,Student_306,28.0,Male,Computer Science,Excellent,64.0,45.0,Seattle,4.3
+1299,Student_299,26.0,Male,Computer Science,Poor,61.0,58.0,Seattle,6.7
+1352,Student_352,24.0,Female,Mathematics,Average,99.0,80.0,New York,4.3
+1387,Student_387,29.0,Male,Computer Science,Good,65.0,64.0,Boston,
+1396,Student_396,17.0,Male,Computer Science,Good,55.0,99.0,New York,4.1
+1285,Student_285,20.0,Female,Engineering,Poor,90.0,42.0,Dallas,3.3
+1126,Student_126,21.0,Female,Arts,Average,64.0,64.0,Chicago,2.1
+1303,Student_303,26.0,Female,Arts,Excellent,93.0,55.0,Houston,4.5
+1224,Student_224,17.0,Male,Computer Science,Excellent,91.0,170.0,,4.2
+1419,Student_419,27.0,Male,Mathematics,Poor,90.0,38.0,Boston,4.7
+1220,Student_220,22.0,Male,Arts,Poor,83.0,96.0,Boston,4.2
+1130,Student_130,25.0,Female,Arts,Good,98.0,64.0,Chicago,4.3
+1421,Student_421,18.0,Male,Business,Excellent,68.0,44.0,,1.3
+1290,Student_290,18.0,Female,Arts,Average,92.0,79.0,Boston,3.0
+1445,Student_445,20.0,Male,Arts,Excellent,75.0,65.0,Chicago,4.1
+1377,Student_377,21.0,Male,Engineering,Good,61.0,56.0,Houston,4.8
+1292,Student_292,17.0,Female,Business,Excellent,50.0,78.0,New York,3.3
+1356,Student_356,,Female,Arts,Poor,78.0,46.0,Houston,5.7
+1295,Student_295,25.0,Female,Business,Poor,92.0,77.0,,5.9
+1397,Student_397,21.0,Male,Mathematics,Average,,38.0,Chicago,2.7
+1341,Student_341,18.0,Male,Engineering,Average,99.0,51.0,Boston,1.6
+1113,Student_113,24.0,Male,Mathematics,Excellent,62.0,81.0,Chicago,3.1
+1180,Student_180,22.0,Female,Computer Science,Average,67.0,48.0,Boston,3.5
+1308,Student_308,18.0,Male,Engineering,Poor,93.0,49.0,Boston,5.2
+1433,Student_433,26.0,Male,Mathematics,Good,64.0,54.0,Seattle,3.0
+1488,Student_488,29.0,Female,Engineering,Poor,96.0,83.0,Houston,5.4
+1482,Student_482,29.0,Male,Business,Average,,76.0,New York,3.6
+1423,Student_423,17.0,Male,Engineering,Good,60.0,60.0,Dallas,3.7
+1234,Student_234,17.0,Female,Arts,Excellent,82.0,,Chicago,4.6
+1312,Student_312,21.0,Female,Computer Science,Excellent,51.0,92.0,Houston,4.8
+1165,Student_165,17.0,Male,Engineering,Average,72.0,48.0,Chicago,2.6
+1137,Student_137,17.0,Female,Arts,Good,58.0,48.0,Boston,5.9
+1198,Student_198,,Female,Engineering,Poor,98.0,54.0,Boston,5.2
+1259,Student_259,17.0,Female,Arts,Poor,55.0,89.0,Boston,5.0
+1233,Student_233,21.0,Male,Mathematics,Good,64.0,97.0,Dallas,2.7
+1116,Student_116,24.0,Male,Mathematics,Good,62.0,,Boston,4.1
+1121,Student_121,24.0,Female,Mathematics,Excellent,87.0,50.0,Boston,4.3
+1350,Student_350,21.0,Female,Computer Science,Excellent,91.0,66.0,New York,4.6
+1225,Student_225,17.0,Female,Computer Science,Good,100.0,,Boston,3.8
+1403,Student_403,21.0,Male,Arts,Excellent,58.0,100.0,Seattle,
+1398,Student_398,19.0,Female,Business,,,98.0,New York,2.8
+1128,Student_128,23.0,Female,Computer Science,Poor,91.0,39.0,Chicago,6.9
+1286,Student_286,25.0,Male,Mathematics,Excellent,50.0,93.0,Seattle,3.5
+1412,Student_412,19.0,Female,Mathematics,Poor,,68.0,Seattle,3.6
+1108,Student_108,29.0,Male,Business,Poor,82.0,56.0,Houston,4.7
+1371,Student_371,27.0,Male,Computer Science,,66.0,63.0,New York,3.2
+1326,Student_326,20.0,Male,Engineering,Excellent,,96.0,Houston,6.2
+1134,Student_134,24.0,Male,Computer Science,Excellent,55.0,67.0,Boston,5.4
+1453,Student_453,18.0,Male,Arts,Average,95.0,64.0,Houston,7.6
+1045,Student_45,20.0,Male,Business,Good,56.0,58.0,Chicago,2.6
+1461,Student_461,26.0,Male,,Good,55.0,89.0,Seattle,5.7
+1066,Student_66,28.0,Female,Business,Good,51.0,59.0,New York,4.6
+1284,Student_284,23.0,Male,Mathematics,Average,79.0,68.0,Dallas,3.5
+1086,Student_86,28.0,Male,Engineering,Poor,87.0,75.0,Seattle,16.0
+1243,Student_243,23.0,Female,Arts,Good,93.0,55.0,Chicago,0.4
+1187,Student_187,22.0,Male,Computer Science,Excellent,90.0,59.0,Boston,4.3
+1384,Student_384,17.0,Female,Mathematics,Average,50.0,53.0,Boston,18.0
+1160,Student_160,,Female,Computer Science,Average,91.0,64.0,Chicago,4.7
+1013,Student_13,27.0,Male,Business,Excellent,96.0,38.0,Seattle,5.4
+1036,Student_36,17.0,Female,Mathematics,Poor,95.0,43.0,Chicago,1.8
+1029,Student_29,17.0,Male,Arts,Poor,61.0,79.0,Boston,4.8
+1171,Student_171,23.0,Male,Business,Average,68.0,69.0,Houston,2.9
+1143,Student_143,28.0,Female,Mathematics,Good,61.0,86.0,Chicago,
+1399,Student_399,28.0,,Engineering,Average,90.0,44.0,Dallas,5.3
+1343,Student_343,19.0,Female,,Poor,93.0,52.0,Seattle,3.8
+1222,Student_222,25.0,Female,Computer Science,Excellent,55.0,50.0,Chicago,4.3
+1096,Student_96,29.0,Female,Mathematics,Average,95.0,55.0,New York,5.9
+1052,Student_52,25.0,Female,Business,Average,95.0,89.0,Chicago,8.6
+1241,Student_241,28.0,Male,Computer Science,Average,72.0,96.0,Dallas,7.4
+1485,Student_485,,Male,Business,Average,72.0,60.0,Houston,4.3
+1379,Student_379,29.0,Male,Business,Excellent,57.0,71.0,Seattle,3.9
+1179,Student_179,19.0,Male,Mathematics,Poor,93.0,70.0,Dallas,4.6
+1042,Student_42,,Female,Arts,Average,76.0,60.0,Boston,4.2
+1499,Student_499,26.0,,Mathematics,Excellent,68.0,180.0,Dallas,6.5
+1422,Student_422,26.0,Male,Business,Average,94.0,58.0,Boston,2.9
+1207,Student_207,19.0,Male,Arts,Average,93.0,57.0,Boston,4.8
+1283,Student_283,20.0,,Computer Science,Average,61.0,62.0,New York,1.5
+1255,Student_255,23.0,Male,Arts,Average,74.0,,New York,4.6
+1413,Student_413,24.0,Male,Arts,Excellent,87.0,87.0,Boston,4.7
+1005,Student_5,24.0,Male,Business,Average,60.0,69.0,Boston,5.2
+1257,Student_257,24.0,Female,Arts,Good,51.0,55.0,New York,5.7
+1449,Student_449,19.0,Male,Mathematics,Poor,95.0,83.0,Dallas,4.6
+1101,Student_101,,Male,Mathematics,Average,77.0,37.0,Dallas,5.1
+1227,Student_227,20.0,Female,Arts,Poor,61.0,86.0,New York,4.9
+1430,Student_430,29.0,Male,Arts,Good,50.0,94.0,New York,4.8
+1214,Student_214,17.0,Female,Computer Science,Poor,90.0,84.0,Dallas,4.3
+1172,Student_172,29.0,Male,Business,Excellent,,54.0,Seattle,4.5
+1099,Student_99,24.0,Male,Computer Science,Poor,65.0,78.0,Chicago,3.2
+1293,Student_293,27.0,Female,Computer Science,Poor,69.0,99.0,Houston,1.2
+1216,Student_216,26.0,Male,Business,Average,83.0,90.0,Dallas,7.7
+1062,Student_62,21.0,Female,Business,Poor,58.0,66.0,Boston,4.2
+1048,Student_48,21.0,Female,Arts,Poor,93.0,73.0,New York,4.7
+1033,Student_33,29.0,,,Poor,65.0,,New York,3.7
+1268,Student_268,17.0,Male,Mathematics,Poor,,76.0,Chicago,3.5
+1328,Student_328,17.0,Male,Engineering,Poor,91.0,55.0,Chicago,2.6
+1201,Student_201,,Female,Arts,Poor,80.0,97.0,Houston,2.8
+1447,Student_447,24.0,Female,Computer Science,Excellent,84.0,94.0,New York,3.1
+1028,Student_28,21.0,Male,Business,Average,73.0,,Houston,6.5
+1425,Student_425,17.0,Male,Mathematics,Good,73.0,88.0,Seattle,5.3
+1231,Student_231,19.0,Male,Engineering,Excellent,89.0,84.0,Boston,4.1
+1261,Student_261,24.0,Male,Mathematics,Poor,74.0,68.0,Seattle,4.6
+1289,Student_289,23.0,Female,Mathematics,,57.0,94.0,Boston,3.7
+1163,Student_163,19.0,Female,Business,Good,67.0,41.0,Seattle,3.7
+1426,Student_426,25.0,Female,Arts,Average,56.0,55.0,Boston,3.8
+1139,Student_139,23.0,Female,Business,,80.0,57.0,Seattle,4.2
+1063,Student_63,18.0,Male,Arts,Poor,87.0,45.0,New York,
+1136,Student_136,18.0,Female,Engineering,Average,55.0,72.0,Chicago,
+1129,Student_129,26.0,Female,Computer Science,Average,93.0,99.0,New York,5.1
+1477,Student_477,28.0,Female,Computer Science,Excellent,72.0,44.0,New York,4.2
+1009,Student_9,26.0,Male,Mathematics,Excellent,93.0,64.0,Seattle,4.9
+1327,Student_327,27.0,Female,Business,Good,61.0,44.0,Houston,2.3
+1464,Student_464,17.0,Female,Arts,Excellent,75.0,81.0,Houston,6.7
+1065,Student_65,28.0,Female,Computer Science,Poor,71.0,91.0,New York,4.0
+1301,Student_301,23.0,Male,Computer Science,Good,98.0,39.0,Houston,4.9
+1015,Student_15,21.0,Female,Computer Science,Average,86.0,73.0,Houston,1.5
+1157,Student_157,27.0,Male,,Poor,75.0,72.0,New York,3.1
+1041,Student_41,28.0,Male,Engineering,Excellent,64.0,83.0,Houston,5.7
+1380,Student_380,19.0,Male,Engineering,Good,74.0,95.0,Chicago,4.6
+1469,Student_469,27.0,Male,Business,Excellent,97.0,,Dallas,3.5
+1404,Student_404,23.0,,Arts,Good,62.0,75.0,New York,7.0
+1217,Student_217,28.0,Female,Computer Science,Good,85.0,43.0,Boston,4.7
+1280,Student_280,26.0,Male,Arts,Average,59.0,92.0,Seattle,2.6
+1435,Student_435,18.0,Female,Mathematics,Poor,68.0,38.0,New York,5.1
+1431,Student_431,26.0,Male,Mathematics,Excellent,61.0,91.0,New York,4.2
+1338,Student_338,29.0,Female,Computer Science,,80.0,45.0,New York,3.4
+1237,Student_237,27.0,Male,Engineering,Excellent,57.0,48.0,Boston,3.1
+1208,Student_208,23.0,Male,Arts,Excellent,69.0,65.0,New York,5.2
+1213,Student_213,21.0,Male,Mathematics,Excellent,,45.0,Seattle,5.3
+1296,Student_296,25.0,Male,Computer Science,Poor,86.0,35.0,Chicago,2.8
+1458,Student_458,26.0,Male,Arts,Average,57.0,82.0,Dallas,5.0
+1252,Student_252,22.0,Female,Computer Science,Poor,96.0,66.0,Chicago,6.0
+1489,Student_489,18.0,Male,Computer Science,Good,64.0,55.0,Seattle,2.2
+1487,Student_487,20.0,Male,Mathematics,Excellent,65.0,71.0,Dallas,5.1
+1304,Student_304,25.0,Female,Business,Good,,92.0,Chicago,5.2
+1351,Student_351,20.0,Female,Mathematics,Excellent,57.0,85.0,Boston,2.0
+1270,Student_270,28.0,Female,Engineering,Good,85.0,98.0,Boston,4.9
+1202,Student_202,27.0,Male,Engineering,Good,73.0,40.0,Houston,2.4
+1162,Student_162,29.0,Male,Computer Science,Good,60.0,40.0,,5.0
+1044,Student_44,23.0,Male,Arts,Good,99.0,84.0,Chicago,4.7
+1218,Student_218,24.0,Male,Business,Poor,51.0,55.0,Dallas,3.7
+1402,Student_402,29.0,Female,Mathematics,Poor,62.0,61.0,Boston,4.9
+1191,Student_191,28.0,Male,Business,Poor,100.0,59.0,Dallas,2.9
+1310,Student_310,28.0,Female,Computer Science,Poor,99.0,62.0,Seattle,3.4
+1260,Student_260,22.0,Female,,Average,66.0,60.0,Houston,3.8
+1106,Student_106,25.0,Male,Computer Science,Average,81.0,64.0,Houston,6.2
+1054,Student_54,18.0,Female,Arts,Average,74.0,83.0,Houston,2.5
+1390,Student_390,19.0,Male,Engineering,Average,54.0,42.0,Dallas,4.8
+1002,Student_2,20.0,Male,Business,Good,63.0,61.0,Boston,2.3
+1442,Student_442,25.0,Male,Computer Science,,84.0,68.0,Houston,5.6
+1483,Student_483,20.0,Female,,Average,94.0,69.0,Dallas,4.2
+1050,Student_50,23.0,Female,Business,Excellent,52.0,53.0,Chicago,3.5
+1420,Student_420,26.0,Female,Engineering,Good,72.0,54.0,Boston,6.6
+1081,Student_81,20.0,Male,Business,Excellent,81.0,73.0,New York,2.4
+1206,Student_206,25.0,Male,Engineering,Average,77.0,94.0,New York,6.3
+1035,Student_35,25.0,,Engineering,Excellent,57.0,60.0,Boston,3.7
+1264,Student_264,18.0,Female,Engineering,Good,84.0,63.0,,6.9
+1428,Student_428,22.0,Male,Computer Science,Excellent,70.0,80.0,Chicago,5.7
+1367,Student_367,19.0,Female,Engineering,Excellent,59.0,56.0,New York,20.0
+1092,Student_92,28.0,Male,Engineering,Poor,73.0,39.0,Dallas,2.0
+1340,Student_340,18.0,Male,Arts,Poor,92.0,49.0,Houston,4.3
+1474,Student_474,21.0,Female,Business,Average,64.0,43.0,Houston,4.2
+1053,Student_53,23.0,Female,Arts,Average,64.0,81.0,,4.7
+1346,Student_346,20.0,Female,Computer Science,Poor,72.0,93.0,Boston,2.8
+1265,Student_265,22.0,Male,Engineering,Excellent,86.0,72.0,Boston,2.8
+1242,Student_242,22.0,Male,Arts,Poor,91.0,,Boston,3.4
+1014,Student_14,24.0,Female,Engineering,Poor,65.0,41.0,Boston,4.2
+1316,Student_316,25.0,Female,Arts,Excellent,75.0,98.0,Boston,3.9
+1089,Student_89,20.0,Female,Arts,Good,60.0,94.0,Chicago,4.8
+1388,Student_388,21.0,Female,Computer Science,Good,63.0,73.0,New York,5.6
+1274,Student_274,19.0,Male,,Good,80.0,35.0,Boston,5.2
+1167,Student_167,29.0,Female,Arts,Good,62.0,,Dallas,4.7
+1329,Student_329,,Female,Computer Science,Excellent,69.0,70.0,Houston,4.0
+1493,Student_493,17.0,Male,Engineering,Good,100.0,73.0,Seattle,3.7
+1135,Student_135,28.0,Male,Engineering,Poor,58.0,50.0,New York,7.2
+1307,Student_307,17.0,Female,Computer Science,,55.0,86.0,Seattle,1.7
+1481,Student_481,22.0,Female,Computer Science,Good,93.0,53.0,New York,0.6
+1320,Student_320,20.0,,,Good,55.0,59.0,Chicago,4.6
+1244,Student_244,21.0,Male,Engineering,,63.0,44.0,Seattle,4.0
+1055,Student_55,20.0,Female,,,79.0,67.0,Chicago,3.8
+1364,Student_364,22.0,Female,Engineering,Poor,50.0,41.0,Boston,7.4
+1051,Student_51,21.0,Male,Mathematics,Good,69.0,70.0,Dallas,6.1
+1457,Student_457,25.0,Male,Business,Average,75.0,53.0,Dallas,2.7
+1175,Student_175,,,Mathematics,Good,57.0,100.0,New York,2.3
+1446,Student_446,17.0,Male,Computer Science,Poor,60.0,94.0,New York,
+1190,Student_190,28.0,Female,Mathematics,Good,59.0,55.0,New York,
+1497,Student_497,26.0,Male,Engineering,Good,62.0,91.0,Houston,5.1
+1188,Student_188,28.0,,Arts,Excellent,52.0,47.0,Houston,5.8
+1170,Student_170,23.0,Male,Computer Science,Poor,100.0,36.0,Chicago,6.8
+1059,Student_59,26.0,Female,Business,Good,93.0,71.0,Houston,4.7
+1049,Student_49,19.0,Female,Arts,Excellent,73.0,52.0,Dallas,3.9
+1345,Student_345,25.0,Male,Arts,Average,69.0,59.0,Dallas,
+1236,Student_236,17.0,Female,Mathematics,Average,75.0,61.0,Houston,3.5
+1253,Student_253,23.0,Female,Arts,Good,63.0,70.0,Chicago,2.8
+1022,Student_22,18.0,Male,Computer Science,Good,87.0,76.0,Dallas,5.4
+1314,Student_314,23.0,Female,Mathematics,Poor,86.0,39.0,Seattle,5.0
+1460,Student_460,,Female,Mathematics,Excellent,51.0,89.0,New York,3.8
+1161,Student_161,28.0,Male,Mathematics,Average,63.0,64.0,Boston,4.5
+1277,Student_277,27.0,Female,Engineering,Poor,52.0,82.0,Boston,5.0
+1444,Student_444,29.0,Male,Business,Good,87.0,53.0,Boston,5.8
+1192,Student_192,20.0,Male,Arts,Average,84.0,79.0,Dallas,4.9
+1386,Student_386,28.0,Male,Arts,Good,80.0,63.0,Houston,3.7
+1294,Student_294,28.0,Female,Mathematics,Good,77.0,42.0,Boston,2.9
+1414,Student_414,24.0,Male,Mathematics,Good,68.0,54.0,New York,5.0
+1344,Student_344,29.0,Female,Business,Excellent,87.0,89.0,Dallas,
+1258,Student_258,27.0,Male,Arts,Average,88.0,86.0,Dallas,4.9
+1309,Student_309,17.0,Male,Arts,Good,69.0,41.0,Dallas,3.3
+1150,Student_150,21.0,Female,Engineering,Poor,56.0,56.0,Chicago,6.0
+1131,Student_131,28.0,Female,Arts,Excellent,89.0,55.0,,6.0
+1152,Student_152,17.0,Male,Mathematics,Poor,69.0,49.0,Boston,5.5
+1360,Student_360,19.0,Female,Arts,Good,96.0,47.0,Seattle,4.9
+1100,Student_100,26.0,,Business,Good,71.0,92.0,Houston,4.8
+1373,Student_373,21.0,Female,Engineering,Poor,57.0,61.0,Seattle,4.8
+1088,Student_88,26.0,Male,Mathematics,Good,57.0,83.0,Seattle,5.5
+1459,Student_459,,Female,Business,Average,97.0,79.0,Seattle,5.5
+1331,Student_331,22.0,Male,Engineering,Average,73.0,36.0,Boston,5.7
+1215,Student_215,19.0,Male,Arts,,85.0,65.0,Houston,2.5
+1467,Student_467,22.0,Male,Mathematics,Excellent,54.0,67.0,New York,2.7
+1122,Student_122,19.0,Male,Business,Good,88.0,46.0,Seattle,3.5
+1500,Student_500,21.0,Female,Computer Science,Average,83.0,80.0,,0.8
+1021,Student_21,21.0,Male,Business,Excellent,50.0,95.0,New York,4.3
+1189,Student_189,28.0,Female,Mathematics,Excellent,77.0,42.0,Seattle,3.4
+1072,Student_72,17.0,Male,Business,Excellent,57.0,76.0,Seattle,3.9
+1107,Student_107,29.0,Male,Mathematics,Good,99.0,42.0,Chicago,3.0
+1271,Student_271,27.0,Female,Engineering,Good,94.0,51.0,Seattle,2.6
+1349,Student_349,17.0,Male,,Good,99.0,78.0,New York,4.2
+1436,Student_436,25.0,Male,Computer Science,Poor,78.0,,Chicago,
+1103,Student_103,28.0,Male,Computer Science,Average,82.0,78.0,Boston,2.4
