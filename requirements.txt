@@ -7,3 +7,12 @@ scikit-learn
 mlxtend
 jupyterlab
 ipykernel
+datasets
+gensim
+imbalanced-learn
+nltk
+spacy
+streamlit
+tensorflow
+transformers
+torch
